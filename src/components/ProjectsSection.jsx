@@ -30,6 +30,26 @@ const projects = [
     demoUrl: "https://mdasif483.github.io/game-/",
     githubUrl: "https://github.com/Mdasif483/game-",
   },
+  {
+    id: 4,
+    title: "Digital Wallet ",
+    description:
+      "Add money to your digital wallet, Works smoothly on phones, Real-time balance update, Withdraw money with validation (no negative balance), tablets, and desktops.",
+    image: "public/Screenshot 2025-07-29 222358.png",
+    tags: ["REACT", "Tailwindcss", "Git & GitHub"],
+    demoUrl: "https://localstorageproject1.netlify.app/",
+    githubUrl: "https://github.com/Mdasif483/localStorageProject",
+  },
+  {
+    id: 5,
+    title: "React Portfolio Website",
+    description:
+      "This is a modern and responsive portfolio website built using React.js, It follows a component-based structure for better code reusability and performance.",
+    image: "public/Screenshot 2025-07-29 224650.png",
+    tags: ["REACT", "Tailwindcss", "Git & GitHub"],
+    demoUrl: "https://react-project-8745.netlify.app/",
+    githubUrl: "https://github.com/Mdasif483/reactsample",
+  },
 ];
 
 export const ProjectsSection = () => {
