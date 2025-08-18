@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: "Stop-Watch",
     description: "Start, Pause, and Reset functionalities, Real-time time tracking with millisecond precision, Clean and minimal UI, Fully responsive design for mobile and desktop.",
-    image: "public/projects/Screenshot 2025-07-27 224305.png",
+    image: "/projects/Screenshot 2025-07-27 224305.png",
     tags: ["  HTML", "CSS", "JavaScript"],
     demoUrl: "https://mdasif483.github.io/stopWatch/",
     githubUrl: "https://github.com/Mdasif483",
@@ -15,7 +15,7 @@ const projects = [
     title: "Fetch User GitHub Data",
     description:
       "Search any GitHub user by username, Live data fetching using GitHub REST API, Displays profile info: name, bio, avatar, location, repo count, followers, etc..",
-    image: "public/projects/Screenshot 2025-07-27 224938.png",
+    image: "/projects/Screenshot 2025-07-27 224938.png",
     tags: ["HTML", "CSS", "JavaScript"],
     demoUrl: "https://mdasif483.github.io/gitData/",
     githubUrl: "https://github.com/Mdasif483/gitData",
@@ -25,7 +25,7 @@ const projects = [
     title: "Play With Us Game",
     description:
       "Auto-generated math questions using random numbers, Instant feedback on right or wrong answers, Works smoothly on phones, tablets, and desktops.",
-    image: "public/projects/Screenshot 2025-07-27 225254.png",
+    image: "/projects/Screenshot 2025-07-27 225254.png",
     tags: ["HTML", "CSS", "JavaScript"],
     demoUrl: "https://mdasif483.github.io/game-/",
     githubUrl: "https://github.com/Mdasif483/game-",
@@ -35,7 +35,7 @@ const projects = [
     title: "Digital Wallet ",
     description:
       "Add money to your digital wallet, Works smoothly on phones, Real-time balance update, Withdraw money with validation (no negative balance), tablets, and desktops.",
-    image: "public/projects/Screenshot 2025-07-29 222358.png",
+    image: "/projects/Screenshot 2025-07-29 222358.png",
     tags: ["REACT", "Tailwindcss", "Git & GitHub"],
     demoUrl: "https://localstorageproject1.netlify.app/",
     githubUrl: "https://github.com/Mdasif483/localStorageProject",
@@ -45,7 +45,7 @@ const projects = [
     title: "React Portfolio Website",
     description:
       "This is a modern and responsive portfolio website built using React.js, It follows a component-based structure for better code reusability and performance.",
-    image: "public/projects/Screenshot 2025-07-29 224650.png",
+    image: "/projects/Screenshot 2025-07-29 224650.png",
     tags: ["REACT", "Tailwindcss", "Git & GitHub"],
     demoUrl: "https://react-project-8745.netlify.app/",
     githubUrl: "https://github.com/Mdasif483/reactsample",
