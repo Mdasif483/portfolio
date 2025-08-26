@@ -6,7 +6,7 @@ const projects = [
     title: "MERN Stack Travel Booking ",
     description:
       "Browse and book hotels, resorts, and unique stays Secure login & signup with authentication built with the MERN stack (MongoDB, Express.js, React, Node.js).",
-    image: "/public/projects/Screenshot 2025-08-26 150519.png",
+    image: "/projects/Screenshot 2025-08-26 150519.png",
     tags: ["Tailwindcss", "MERN", "Git & GitHub"],
     demoUrl: "https://mywanderlust12.netlify.app",
     githubUrl: "https://github.com/Mdasif483/Wanderlust",
@@ -16,7 +16,7 @@ const projects = [
     title: "MERN Blogging Platform",
     description:
       "Blogify is a full-stack blogging application built with the MERN stack, allowing users to create, edit, and share blogs with a clean and responsive interface.",
-    image: "/public/projects/Screenshot 2025-08-26 153539.png",
+    image: "/projects/Screenshot 2025-08-26 153539.png",
     tags: ["Tailwindcss", "MERN", "Git & GitHub"],
     demoUrl: "https://curious-gelato-fc7ef2.netlify.app/",
     githubUrl: "https://github.com/Mdasif483/BlogApp",
@@ -26,7 +26,7 @@ const projects = [
     title: "Notes & Contact Management App ",
     description:
       "A unique feature of this project is the ability to upload, save, and manage notes in PDF format, making it a powerful tool for students and professionals.",
-    image: "/public/projects/Screenshot 2025-08-26 152707.png",
+    image: "/projects/Screenshot 2025-08-26 152707.png",
     tags: ["Tailwindcss", "MERN", "Git & GitHub"],
     demoUrl: "https://newfmn.netlify.app",
     githubUrl: "https://github.com/Mdasif483/NewFMN",
