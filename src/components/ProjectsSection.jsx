@@ -3,6 +3,36 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
+    title: "MERN Stack Travel Booking ",
+    description:
+      "Browse and book hotels, resorts, and unique stays Secure login & signup with authentication built with the MERN stack (MongoDB, Express.js, React, Node.js).",
+    image: "/public/projects/Screenshot 2025-08-26 150519.png",
+    tags: ["Tailwindcss", "MERN", "Git & GitHub"],
+    demoUrl: "https://mywanderlust12.netlify.app",
+    githubUrl: "https://github.com/Mdasif483/Wanderlust",
+  },
+  {
+    id: 2,
+    title: "MERN Blogging Platform",
+    description:
+      "Blogify is a full-stack blogging application built with the MERN stack, allowing users to create, edit, and share blogs with a clean and responsive interface.",
+    image: "/public/projects/Screenshot 2025-08-26 153539.png",
+    tags: ["Tailwindcss", "MERN", "Git & GitHub"],
+    demoUrl: "https://curious-gelato-fc7ef2.netlify.app/",
+    githubUrl: "https://github.com/Mdasif483/BlogApp",
+  },
+  {
+    id: 3,
+    title: "Notes & Contact Management App ",
+    description:
+      "A unique feature of this project is the ability to upload, save, and manage notes in PDF format, making it a powerful tool for students and professionals.",
+    image: "/public/projects/Screenshot 2025-08-26 152707.png",
+    tags: ["Tailwindcss", "MERN", "Git & GitHub"],
+    demoUrl: "https://newfmn.netlify.app",
+    githubUrl: "https://github.com/Mdasif483/NewFMN",
+  },
+  {
+    id: 4,
     title: "Stop-Watch",
     description: "Start, Pause, and Reset functionalities, Real-time time tracking with millisecond precision, Clean and minimal UI, Fully responsive design for mobile and desktop.",
     image: "/projects/Screenshot 2025-07-27 224305.png",
@@ -11,7 +41,7 @@ const projects = [
     githubUrl: "https://github.com/Mdasif483",
   },
   {
-    id: 2,
+    id: 5,
     title: "Fetch User GitHub Data",
     description:
       "Search any GitHub user by username, Live data fetching using GitHub REST API, Displays profile info: name, bio, avatar, location, repo count, followers, etc..",
@@ -21,7 +51,7 @@ const projects = [
     githubUrl: "https://github.com/Mdasif483/gitData",
   },
   {
-    id: 3,
+    id: 6,
     title: "Play With Us Game",
     description:
       "Auto-generated math questions using random numbers, Instant feedback on right or wrong answers, Works smoothly on phones, tablets, and desktops.",
@@ -31,7 +61,7 @@ const projects = [
     githubUrl: "https://github.com/Mdasif483/game-",
   },
   {
-    id: 4,
+    id: 7,
     title: "Digital Wallet ",
     description:
       "Add money to your digital wallet, Works smoothly on phones, Real-time balance update, Withdraw money with validation (no negative balance), tablets, and desktops.",
@@ -39,16 +69,6 @@ const projects = [
     tags: ["REACT", "Tailwindcss", "Git & GitHub"],
     demoUrl: "https://localstorageproject1.netlify.app/",
     githubUrl: "https://github.com/Mdasif483/localStorageProject",
-  },
-  {
-    id: 5,
-    title: "React Portfolio Website",
-    description:
-      "This is a modern and responsive portfolio website built using React.js, It follows a component-based structure for better code reusability and performance.",
-    image: "/projects/Screenshot 2025-07-29 224650.png",
-    tags: ["REACT", "Tailwindcss", "Git & GitHub"],
-    demoUrl: "https://react-project-8745.netlify.app/",
-    githubUrl: "https://github.com/Mdasif483/reactsample",
   },
 ];
 
